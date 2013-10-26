@@ -1,0 +1,24 @@
+{
+  "name": "barf",
+  "version": "0.0.0",
+  "description": "For games.",
+  "main": "main.coffee",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iameli/barf.git"
+  },
+  "keywords": [
+    "games"
+  ],
+  "author": "Eli Mallon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iameli/barf/issues"
+  },
+  "dependencies": {
+    "optimist": "~0.6.0"
+  }
+}
